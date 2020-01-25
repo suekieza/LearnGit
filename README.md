@@ -2,9 +2,15 @@
 
 ## Link to tutorial
 #### Git
-https://www.youtube.com/watch?v=SWYqp7iY_Tc
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://www.youtube.com/watch?v=SWYqp7iY_Tc" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 #### Git fix Mistakes
-https://www.youtube.com/watch?v=FdZecVxzJbk
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="https://www.youtube.com/watch?v=FdZecVxzJbk" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 #### Markdown
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
