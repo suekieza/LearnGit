@@ -2,12 +2,12 @@
 
 ## Link to tutorial
 #### Git
-<a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc" target="_blank"><img src="https://www.youtube.com/watch?v=SWYqp7iY_Tc" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" 
+alt="Git Crash Cousre" width="240" height="180" border="10" /></a>
 
 #### Git fix Mistakes
-<a href="https://www.youtube.com/watch?v=FdZecVxzJbk" target="_blank"><img src="https://www.youtube.com/watch?v=FdZecVxzJbk" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+<a href="https://www.youtube.com/watch?v=FdZecVxzJbk" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" 
+alt="Fix Mistakes" width="240" height="180" border="10" /></a>
 
 #### Markdown
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
