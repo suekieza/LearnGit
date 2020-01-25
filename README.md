@@ -19,9 +19,11 @@ $git config --global user.name(email)
 ```
 
 ### Commit comments section
+```
 i for insert to type
 esc to get out again
 :wq to commit
+```
 ####
 ```
 $git commit -m "What changed comment"
