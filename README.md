@@ -42,4 +42,10 @@ $git restore <file(s)> //if file is in origin repo
 $git checkout <file(s)> //if file is only in stage local
 $git commit --amend -m "Change masg in commitlog" //previous commit(changes commit tag)
 $git commit cherry-pick
+
+$git reset --soft //keeps work in stage
+$git reset --mixed //keeps work in folder structures
+$git reset --hard //Removes all work
+
+$git clean -df //directories and files
 ```
