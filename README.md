@@ -19,4 +19,7 @@ esc to get out again
 :wq to commit
 ####
 $git commit -m "What changed comment"
+$git remote  //check if there is a remote repo
+$git remote add origin https://github.com/suekieza/LearnGit.git
+$git push -u origin master
 
