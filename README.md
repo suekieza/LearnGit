@@ -3,6 +3,8 @@
 ## Link to tutorial
 #### Git
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
+#### Git fix Mistakes
+https://www.youtube.com/watch?v=FdZecVxzJbk
 #### Markdown
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
@@ -39,4 +41,5 @@ $git pull
 $git restore <file(s)> //if file is in origin repo
 $git checkout <file(s)> //if file is only in stage local
 $git commit --amend -m "Change masg in commitlog" //previous commit(changes commit tag)
+$git commit cherry-pick
 ```
