@@ -33,4 +33,10 @@ $git push -u origin master
 $git clone https://github.com/suekieza/LearnGit.git
 $git pull
 ```
+### Fixing Mistakes
 
+```
+$git restore <file(s)> //if file is in origin repo
+$git checkout <file(s)> //if file is only in stage local
+$git commit --amend -m "Change masg in commitlog" //previous commit(changes commit tag)
+```
