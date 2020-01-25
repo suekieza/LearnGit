@@ -50,4 +50,6 @@ $git reset --hard //Removes all work
 $git clean -df //directories and files
 
 $git reflog //life saver see history
+$git revert //fix commits without changing history
+$git diff //see changes between to commits or branches
 ```
