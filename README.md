@@ -1,13 +1,13 @@
 # Learning the git
 
 ## Link to tutorial
-
+#### Git
 https://www.youtube.com/watch?v=SWYqp7iY_Tc
-#Markdown
+#### Markdown
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ### Basic commands
-```python
+```
 $git init
 $git add <file(s)>
 $git status
@@ -28,5 +28,7 @@ $git commit -m "What changed comment"
 $git remote  //check if there is a remote repo
 $git remote add origin https://github.com/suekieza/LearnGit.git
 $git push -u origin master
+$git clone https://github.com/suekieza/LearnGit.git
+$git pull
 ```
 
