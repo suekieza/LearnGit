@@ -2,13 +2,11 @@
 
 ## Link to tutorial
 #### Git
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://www.youtube.com/watch?v=SWYqp7iY_Tc" 
+<a href="https://www.youtube.com/watch?v=SWYqp7iY_Tc" target="_blank"><img src="https://www.youtube.com/watch?v=SWYqp7iY_Tc" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Git fix Mistakes
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://www.youtube.com/watch?v=FdZecVxzJbk" 
+<a href="https://www.youtube.com/watch?v=FdZecVxzJbk" target="_blank"><img src="https://www.youtube.com/watch?v=FdZecVxzJbk" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 #### Markdown
