@@ -49,5 +49,5 @@ $git reset --hard //Removes all work
 
 $git clean -df //directories and files
 
-$git reflog
+$git reflog //life saver see history
 ```
