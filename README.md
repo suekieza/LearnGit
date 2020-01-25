@@ -48,4 +48,6 @@ $git reset --mixed //keeps work in folder structures
 $git reset --hard //Removes all work
 
 $git clean -df //directories and files
+
+$git reflog
 ```
